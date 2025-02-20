@@ -1,0 +1,4 @@
+desc=Bedrock Manager
+os_support=*-linux
+category=servers
+default_module=1
