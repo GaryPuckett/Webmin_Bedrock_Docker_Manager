@@ -1,0 +1,13 @@
+NAME=Docker Container Name,0
+
+UID=User ID to run the server process,5
+
+GID=Group ID to run the server process,6
+
+EULA=Accept the Minecraft End User License Agreement,4,1-TRUE,2-FALSE
+
+VERSION=Specify the server version,10,1-LATEST,2-PREVIEW
+
+TZ=Timezone for the server,0
+
+PACKAGE_BACKUP_KEEP=Number of package backups to retain,0

@@ -1,0 +1,18 @@
+# config file for Minecraft Server Module
+NAME=Bedrock
+
+# User and group IDs for running the server process
+UID=
+GID=
+
+# Accept the Minecraft End User License Agreement
+EULA=2
+
+# Server version settings
+VERSION=1
+
+# Timezone setting
+TZ=America/New_York
+
+# Number of package backups to keep
+PACKAGE_BACKUP_KEEP=4
